@@ -1,0 +1,8 @@
+[package]
+name = "exemplo_video_gerar_arquivo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fs = "0.0.5"
+whoami = "1.5.2"
